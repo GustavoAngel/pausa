@@ -1,0 +1,6 @@
+{
+  "name": "Focus",
+  "description": "Una aplicación de bienestar digital para bloquear el acceso a redes sociales por 15 minutos y reconectar con el momento presente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
